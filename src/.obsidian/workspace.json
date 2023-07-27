@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "a462fc1d5f22bf5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "42f9d09d65ad4427",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe4b54f03c1122b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "个人知识库的思考.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8321e0eaf53c4e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "深入线程池.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36e16b921ed06808",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2e21f4db5c12d157",
+    "type": "split",
+    "children": [
+      {
+        "id": "e79d285e1a588946",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d432dada6f269a12",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2f7b93e37b182d2e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "31be275159b84746",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3697454936bf6cb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e57678df025b18c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35cc4f4da09e6c47",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "个人知识库的思考.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f9d9ade4f812942b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "个人知识库的思考.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7ae230bf18740325",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0ef92d81ed0bf43d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "个人知识库的思考.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "active": "fe4b54f03c1122b8",
+  "lastOpenFiles": [
+    "深入线程池.md",
+    "个人知识库的思考.md",
+    "SUMMARY.md",
+    "根据不同的业务划分不同的线程池.md",
+    "2023-07-24.md",
+    "paste/Pasted image 20230725150151.png",
+    "未命名.canvas",
+    "未命名 2.canvas",
+    "paste/Pasted image 20230725150551.png",
+    "paste",
+    "paste/Pasted image 20230725150434.png",
+    "未命名 1.canvas"
+  ]
+}

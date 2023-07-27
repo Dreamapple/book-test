@@ -1,0 +1,24 @@
+[book]
+authors = ["长恨安歌"]
+language = "zh-CN"
+multilingual = false
+src = "src"
+title = "长恨安歌的思考"
+
+[build]
+create-missing = false
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+google-analytics = ""
+#git-repository-url = "https://github.com/Binlogo/Knowledge-Track"
+#git-repository-icon = "fa-github"
+#edit-url-template = "https://github.com/Binlogo/Knowledge-Track/edit/main/{path}"
+
+[output.html.fold]
+enable = true
+level = 1
+
+[output.html.search]
+limit-results = 15
